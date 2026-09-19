@@ -1,4 +1,3 @@
-# Attendace-management-sytem
 # Attendance Management System (MERN)
 
 Generic attendance system for **School / Office / Coaching** — Web app with MERN stack.
